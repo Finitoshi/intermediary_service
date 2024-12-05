@@ -1,7 +1,7 @@
 import requests
 
 # URL for the Hugging Face model API
-API_URL = "https://api-inference.huggingface.co/models/black-forest-labs/FLUX.1-schnell"
+API_URL = ""
 
 # Your Hugging Face API token
 API_TOKEN = ""  # Replace with your actual token or fetch from environment variables
