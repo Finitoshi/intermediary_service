@@ -4,7 +4,7 @@ import requests
 API_URL = "https://api-inference.huggingface.co/models/black-forest-labs/FLUX.1-schnell"
 
 # Your Hugging Face API token
-API_TOKEN = "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"  # Replace with your actual token or fetch from environment variables
+API_TOKEN = ""  # Replace with your actual token or fetch from environment variables
 
 # Headers for the request
 headers = {
